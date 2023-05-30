@@ -19,3 +19,8 @@ There are two csv files, exercise.csv and calories.csv which needed to be upload
 Colaboratory and combined into one data frame which was then used for processing.
 Exercise.csv has 8 attributes and 15000 instances whereas calories.csv has 2 attributes and
 15000 instances. 
+
+It can be concluded that XGBoost Regressor is the best regression technique for the above
+dataset or any dataset which includes numeric attributes only and the attributes have high
+multicollinearity. Ridge regression may outperform MLR as it improves the accuracy of the
+regression model and prevents overfitting.
